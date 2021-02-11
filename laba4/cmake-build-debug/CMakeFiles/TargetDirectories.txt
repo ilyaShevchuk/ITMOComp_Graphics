@@ -1,0 +1,3 @@
+C:/Users/Public/CLionProjects/GEOM/laba4clear/cmake-build-debug/CMakeFiles/laba4clear.dir
+C:/Users/Public/CLionProjects/GEOM/laba4clear/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Public/CLionProjects/GEOM/laba4clear/cmake-build-debug/CMakeFiles/rebuild_cache.dir

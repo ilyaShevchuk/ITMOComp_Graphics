@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Public/CLionProjects/grafika/laba4/Picture.cpp
+fstream
+-
+cmath
+-
+string
+-
+stdexcept
+-
+Picture.h
+C:/Users/Public/CLionProjects/grafika/laba4/Picture.h
+
+C:/Users/Public/CLionProjects/grafika/laba4/Picture.h
+string
+-
+vector
+-
+
+C:/Users/Public/CLionProjects/grafika/laba4/main.cpp
+iostream
+-
+string
+-
+map
+-
+Picture.h
+C:/Users/Public/CLionProjects/grafika/laba4/Picture.h
+

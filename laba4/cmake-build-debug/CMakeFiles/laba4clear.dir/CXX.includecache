@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Public/CLionProjects/GEOM/laba4clear/Picture.cpp
+fstream
+-
+cmath
+-
+string
+-
+algorithm
+-
+stdexcept
+-
+Picture.h
+C:/Users/Public/CLionProjects/GEOM/laba4clear/Picture.h
+
+C:/Users/Public/CLionProjects/GEOM/laba4clear/Picture.h
+string
+-
+vector
+-
+
+C:/Users/Public/CLionProjects/GEOM/laba4clear/main.cpp
+iostream
+-
+string
+-
+Picture.h
+C:/Users/Public/CLionProjects/GEOM/laba4clear/Picture.h
+

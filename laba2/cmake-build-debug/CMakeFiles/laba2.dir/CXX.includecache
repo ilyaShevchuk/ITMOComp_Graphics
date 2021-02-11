@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Public/CLionProjects/GEOM/laba2/Image.cpp
+Image.h
+C:/Users/Public/CLionProjects/GEOM/laba2/Image.h
+iostream
+-
+cmath
+-
+
+C:/Users/Public/CLionProjects/GEOM/laba2/Image.h
+vector
+-
+
